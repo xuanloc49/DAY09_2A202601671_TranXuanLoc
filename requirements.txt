@@ -1,0 +1,7 @@
+langchain
+langchain-groq
+langgraph
+pydantic
+pandas
+pytest
+python-dotenv
